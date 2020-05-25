@@ -24,8 +24,8 @@
 	ProcessorClockFrequency="2712"
 	>
 	<Testing>
-		<StartDateTime>May 25 00:20 Eastern Daylight Time</StartDateTime>
-		<StartTestTime>1590380420</StartTestTime>
+		<StartDateTime>May 25 10:11 Eastern Daylight Time</StartDateTime>
+		<StartTestTime>1590415887</StartTestTime>
 		<TestList>
 			<Test>./test/AlgorithmsTests</Test>
 		</TestList>
@@ -36,7 +36,7 @@
 			<FullCommandLine>C:\Users\HAMDIRoumani\Documents\Work\Code\GIT\algorithms\build\test\AlgorithmsTests.exe</FullCommandLine>
 			<Results>
 				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>0.0557597</Value>
+					<Value>0.635759</Value>
 				</NamedMeasurement>
 				<NamedMeasurement type="numeric/double" name="Processors">
 					<Value>1</Value>
@@ -48,12 +48,12 @@
 					<Value>C:\Users\HAMDIRoumani\Documents\Work\Code\GIT\algorithms\build\test\AlgorithmsTests.exe</Value>
 				</NamedMeasurement>
 				<Measurement>
-					<Value encoding="base64" compression="gzip">eJyNUMtqwzAQvOsr9hgfLNproYcQlzSUPrATerBMURVVFZG0QY/292tFITiFQOY02h00M9sm57RTYLl2swq+PFpY3LFNkD6wx/lzs2oxWe40a1AkK10M7B39ji1wK9lytWbcKPQ6ftvAFKIyMsoQpzR4wVRmH9mECkH6+xMGaI8JbiFrSoIjD0lHSUlfnzDA0uAnN2Uv3Y/26HIqCDLWaf9PPP2zi1zs1uMzkB7azQscMEzmtNN2b+RhMGoKXp8uamB2AzZU11gWKUSM3FTkukZRcl9v8ded3+vSncBzR899xg5v8657aHLPoqXkD3ZKoNg=</Value>
+					<Value encoding="base64" compression="gzip">eJyNk09rAjEQxe/7KeaoB5cWCoVCD6LFSv9YVqUHIyVd4zqYZJZktlI/fY0r4tZu1zkleS+/vIFJUliLNgMj0bbasHRkoHcnpl45Lx67L/1hQoWRFkWf0sIoy168k1uLHi2UGAwnQuqMHPLKeJERZVqx8ny69C4VWVh9hEfiNI1m98eaQ3JIcAvB48sI1/sN+AJZxdGsc6w5DDR9Sl3qyn6hIxtigVfcKfJf5gp0zDJdT8I+mkEyfYV9zU/OY48m12onlzV6+kuG1hUY366FoEVGqXErGck+o+da4Lm1Ce5x+1++bWM6ZXL+riXs1SZErtS6lhDERgDlk5Wjzajg0TKRNqtv6dwKrZvGdBfTz73H7BfMURkFmFjqdnTZnLKSrrOgja1+g9rxBydtXH1o181bdzx+6IfODxfj6Ac46TL2====</Value>
 				</Measurement>
 			</Results>
 		</Test>
-		<EndDateTime>May 25 00:20 Eastern Daylight Time</EndDateTime>
-		<EndTestTime>1590380420</EndTestTime>
+		<EndDateTime>May 25 10:11 Eastern Daylight Time</EndDateTime>
+		<EndTestTime>1590415888</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

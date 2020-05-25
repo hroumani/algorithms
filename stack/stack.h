@@ -8,7 +8,10 @@ class Stack {
 
 public:
     Stack()
-     : stack()
+        {};
+
+    Stack(std::initializer_list<T> init)
+        : stack(init)
         {};
     
     void push(T t);
