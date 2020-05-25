@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/stack/stack.cpp
+stack.h
+C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/stack/stack.h
+stdexcept
+-
+
+C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/stack/stack.h
+vector
+-
+

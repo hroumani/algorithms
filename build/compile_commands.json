@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE    -g   -std=gnu++11 -o CMakeFiles\\Algorithms.dir\\stack\\stack.cpp.obj -c C:\\Users\\HAMDIRoumani\\Documents\\Work\\Code\\GIT\\algorithms\\stack\\stack.cpp",
+  "file": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/stack/stack.cpp"
+},
+{
+  "directory": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/build/googletest/googlemock",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\HAMDIRoumani\\Documents\\Work\\Code\\GIT\\algorithms\\googletest\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/build/googletest/googlemock",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   @CMakeFiles/gmock.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\HAMDIRoumani\\Documents\\Work\\Code\\GIT\\algorithms\\googletest\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/build/googletest/googletest",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   @CMakeFiles/gtest.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\HAMDIRoumani\\Documents\\Work\\Code\\GIT\\algorithms\\googletest\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/build/googletest/googletest",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\HAMDIRoumani\\Documents\\Work\\Code\\GIT\\algorithms\\googletest\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/build/test",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   @CMakeFiles/AlgorithmsTests.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles\\AlgorithmsTests.dir\\stack_test.cpp.obj -c C:\\Users\\HAMDIRoumani\\Documents\\Work\\Code\\GIT\\algorithms\\test\\stack_test.cpp",
+  "file": "C:/Users/HAMDIRoumani/Documents/Work/Code/GIT/algorithms/test/stack_test.cpp"
+}
+]

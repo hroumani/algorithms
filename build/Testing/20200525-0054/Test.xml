@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20200525-0054-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.17.2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-N3NMSAL"
+	OSRelease=" Professional"
+	OSVersion=" (Build 18363)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="37431"
+	TotalPhysicalMemory="32567"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2712"
+	>
+	<Testing>
+		<StartDateTime>May 25 00:20 Eastern Daylight Time</StartDateTime>
+		<StartTestTime>1590380420</StartTestTime>
+		<TestList>
+			<Test>./test/AlgorithmsTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>AlgorithmsTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/AlgorithmsTests</FullName>
+			<FullCommandLine>C:\Users\HAMDIRoumani\Documents\Work\Code\GIT\algorithms\build\test\AlgorithmsTests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0557597</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\HAMDIRoumani\Documents\Work\Code\GIT\algorithms\build\test\AlgorithmsTests.exe</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUMtqwzAQvOsr9hgfLNproYcQlzSUPrATerBMURVVFZG0QY/292tFITiFQOY02h00M9sm57RTYLl2swq+PFpY3LFNkD6wx/lzs2oxWe40a1AkK10M7B39ji1wK9lytWbcKPQ6ftvAFKIyMsoQpzR4wVRmH9mECkH6+xMGaI8JbiFrSoIjD0lHSUlfnzDA0uAnN2Uv3Y/26HIqCDLWaf9PPP2zi1zs1uMzkB7azQscMEzmtNN2b+RhMGoKXp8uamB2AzZU11gWKUSM3FTkukZRcl9v8ded3+vSncBzR899xg5v8657aHLPoqXkD3ZKoNg=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>May 25 00:20 Eastern Daylight Time</EndDateTime>
+		<EndTestTime>1590380420</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
